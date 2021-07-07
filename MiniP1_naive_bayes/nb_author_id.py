@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 """ 
-    this is the code to accompany the Lesson 1 (Naive Bayes) mini-project 
-    use a Naive Bayes Classifier to identify emails by their authors
+    this is the code for the mini-project which
+    uses a Naive Bayes Classifier to identify emails by their authors
     
     authors and labels:
     Sara has label 0
