@@ -1,2 +1,2 @@
 # MachineLearning101
-This Repository Includes Mini Projects on Machine Learning.
+This Repository Includes Mini Projects and a Final Project on Machine Learning.
