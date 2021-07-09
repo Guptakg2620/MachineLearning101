@@ -8,3 +8,5 @@ One particular feature of Naive Bayes is that it’s a good algorithm for workin
 
 ## MiniP2_support_vector_machine
 In this mini-project, I have tackled the exact same email author ID problem as the Naive Bayes mini-project, but now with an SVM. What we find will help clarify some of the practical differences between the two algorithms. This project also gives us a chance to play around with parameters a lot more than Naive Bayes did, so we will do that too.
+
+## Mini3_decision_trees
