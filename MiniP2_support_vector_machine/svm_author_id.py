@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 """ 
-    This is the code to accompany the Lesson 2 (SVM) mini-project.
-
-    Use a SVM to identify emails from the Enron corpus by their authors:    
+    Used a SVM to identify emails from the Enron corpus by their authors:    
     Sara has label 0
     Chris has label 1
 """
@@ -23,7 +21,7 @@ features_train, features_test, labels_train, labels_test = preprocess()
 
 
 #########################################################
-### your code goes here ###
+
 
 from sklearn.svm import SVC
 clf = SVC(kernel="rbf", C = 10000.0)
