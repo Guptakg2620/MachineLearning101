@@ -10,3 +10,4 @@ One particular feature of Naive Bayes is that it’s a good algorithm for workin
 In this mini-project, I have tackled the exact same email author ID problem as the Naive Bayes mini-project, but now with an SVM. What we find will help clarify some of the practical differences between the two algorithms. This project also gives us a chance to play around with parameters a lot more than Naive Bayes did, so we will do that too.
 
 ## MiniP3_decision_trees
+In this mini-project, I have again tried to identify the authors in a body of emails, this time using a decision tree. The starter code can be found in decision_tree/dt_author_id.py.
