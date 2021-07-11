@@ -11,3 +11,7 @@ In this mini-project, I have tackled the exact same email author ID problem as t
 
 ## MiniP3_decision_trees
 In this mini-project, I have again tried to identify the authors in a body of emails, this time using a decision tree. The starter code can be found in decision_tree/dt_author_id.py.
+
+## MiniP4_adaboost
+A critical skill for any data analyst is the ability to figure out new things about machine learning. In this mini-project, I have again tried to identify the authors in a body of emails, this time using Adaboost (sometimes also called boosted decision tree) Algorithm. The goal is to do terrain classification with adaboost algorithm, researching and deploying it.
+![Image 1](tools/Figure_1.png)
