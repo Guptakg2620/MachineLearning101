@@ -19,4 +19,4 @@ Scatter Plot             |  Decision Boundaries
 ![Image1](tools/Figure_1.png)  |  ![Image2](tools/Figure_2.png)
 
 ## MiniP5_
-In this mini-project I havew
+In this mini-project
