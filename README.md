@@ -19,5 +19,9 @@ Scatter Plot             |  Decision Boundaries
 ![Image1](tools/Figure_1.png)  |  ![Image2](tools/Figure_2.png)
 
 ## MiniP5_enron_dataset
-![Image1](tools/Figure_3.WEBP)
-In this mini-project we will analyze
+Flowchart         
+:-------------------------:
+![Image3](tools/Figure_3.webp)
+
+
+The Enron fraud is a big, messy and totally fascinating story about corporate malfeasance of nearly every imaginable type. The Enron email and financial datasets are also big, messy treasure troves of information, which become much more useful once you know your way around them a bit. I’ve tried combining the email and finance data into a single dataset, which we’ll explore in this mini-project.
