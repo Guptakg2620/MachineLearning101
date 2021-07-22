@@ -18,5 +18,6 @@ Scatter Plot             |  Decision Boundaries
 :-------------------------:|:-------------------------:
 ![Image1](tools/Figure_1.png)  |  ![Image2](tools/Figure_2.png)
 
-## MiniP5_
+## MiniP5_enron_dataset
+![Image1](tools/Figure_3.WEBP)
 In this mini-project we will analyze
