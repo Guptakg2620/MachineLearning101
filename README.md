@@ -25,3 +25,6 @@ Flowchart
 
 
 The Enron fraud is a big, messy and totally fascinating story about corporate malfeasance of nearly every imaginable type. The Enron email and financial datasets are also big, messy treasure troves of information, which become much more useful once you know your way around them a bit. I’ve tried combining the email and finance data into a single dataset, which we’ll explore in this mini-project.
+
+## MiniP6_
+In this mini-project
